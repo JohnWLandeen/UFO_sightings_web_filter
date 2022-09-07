@@ -8,10 +8,10 @@ This web filter for UFO sightings can filter for the Date, city, state, country,
 ## Results
 
 -Search 1
-![alt text](resources/capture.PNG)
+![alt text](resources/Capture.PNG)
 
 -Search 2
-![alt text](resources/capture1.PNG)
+![alt text](resources/Capture1.PNG)
 
 One can enter as many search values as desired to narrow down the number of entries. If one has interest in UFO sightings in a specific city or state, simply enter the city or state.
 
